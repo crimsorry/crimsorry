@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Kimsori - September 17, 1997 <br>
-Junior Server Backend Developer
+Junior Server Backend Developer!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcrimsorry%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&count_private=true)](https://hits.seeyoufarm.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=style=for-the-badge&logo=Gmail&logoColor=white)](mailto:soooree1@gmail.com)  [![linkedin Badge](https://img.shields.io/badge/linkedin-0A66C2?style=style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%86%8C%EB%A6%AC-%EA%B9%80-5aa798315/) 
 
