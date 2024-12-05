@@ -78,5 +78,6 @@ Junior Server Backend Developer!
 </div><br>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crimsorry&show_icons=true&theme=omni)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crimsorry&layout=compact)
+
 
