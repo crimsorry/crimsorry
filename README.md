@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=0:007CF0,100:FF6EC7&height=150&section=header&text=sooooori&fontSize=50&fontAlign=65&fontAlignY=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=0:007CF0,100:FF6EC7&height=150&section=header&text=sooooori&fontSize=50&fontColor=ffffff)
 
 
 
