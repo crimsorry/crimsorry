@@ -68,7 +68,6 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crimsorry&layout=compact&theme=vue-dark" height="180" style="margin-right: 10px;"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crimsorry&theme=default" alt="profile-summary" height="180"/>
 </p>
 
